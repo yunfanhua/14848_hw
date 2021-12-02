@@ -13,3 +13,10 @@ Everything is in the MapReduce folder
 Hadoop execution results shown in 3 screenshots
 
 Merged results in the file MapReduce/allResults
+
+### Homework 5:
+Everything is in the Spark folder
+
+Results saved in the file: output
+
+Spark code in the file: yunfan_spark.ipynb
