@@ -3,3 +3,4 @@ venv
 .DS_Store
 /NoSQL/.ipynb_checkpoints/
 /Spark/.ipynb_checkpoints/
+/Spark/Data/
